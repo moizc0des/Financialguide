@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+
+ <head>
+    <title>Financial Advising Site</title>
+    <style>
+    body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 1550px;
+    height: 150px;
+    background-color: #f01a1a;
+    padding: 20px;
+
+}
+ 
+#logo {
+    width: 130px;
+    height: 130px;
+    
+
+}
+
+#ca {
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+
+#capital {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #f01a1a;
+    font-size: 300%;
+    
+
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 30;
+    padding: 3000;
+    display:inline-flex;
+    text-align:end;
+}
+
+nav li {
+    margin-right: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.row {
+    color: #f01a1a;
+}
+
+
+
+footer {
+    background-color: #f01a1a;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+#investment {
+    
+    margin: 0%;
+    padding: 0%;
+    background-color: #F0F0F0;
+    padding: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+}
+
+#s {
+    font-weight: bold;
+}
+
+#mf {
+    font-weight: bold;
+}
+
+
+#bond {
+    
+    background-color: #F0F0F0;
+    padding: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+}
+
+#mutualfunds {
+    
+    background-color: #F0F0F0;
+    padding: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+}
+
+#stockmarket {
+    
+    background-color: #f0F0F0;
+    padding: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+  
+}
+
+#contact {
+    background-color: #f01a1a78;
+    padding: 10px;
+}
+
+#cont {
+    background-color: #f01a1a61;
+    padding: 10px;
+}
+
+}
+</style>
+
+<header class="row container">
+      
+    <pre> <img align="left" src="/C:\Users\vansh\Downloads\1674658012496.png" alt="company logo" height="140" id="logo"> <span class="toggleMenu" oneclick="toggleMenu();"></span> <nav class="navigation row"> <ul style="text-align:right;" class="row"> 
+        <li><a style="text-align:right;" href="file:///C:/Users/vansh/inventron%20html/Final.html">Home</a></li> <li><a href="">Live Chat</a></li> 
+        </ul>
+ 
+    </pre>
+</header>
+
+<main>
+    <p id="capital" style="text-align:center;">Capital Guide</p>
+    <p id="ca" style="text-align:center;">Your Online Guide to the world of finance</p>
+    <br>
+
+    <h1 id="top">Investment Opportunities</h1>
+   <ul class="row"><li><a href="#stockmarket">STOCKS</a></li><li><a href="#bond">BONDS</a></li><li><a href="#mutualfunds">MUTUAL FUNDS</a></li></ul>
+<section id="investment">
+<p>Welcome to our investopedia. We offer a variety of investment options to meet your financial goals.</p>
+<p>An investment is the act of allocating resources, usually money, with the expectation of obtaining an additional income or profit. There are various types of investments, including stocks, bonds, real estate, and commodities. Each type of investment carries its own set of risks and potential rewards. It's important to do thorough research and consultation before investing. Diversifying one's investments and maintaining a long-term perspective are also generally considered to be good strategies for successful investing.
+</p>
+<p>Investments can be divided into two main categories: traditional investments and alternative investments. 
+    Traditional investments include stocks, bonds, mutual funds, and real estate.
+     These types of investments have been around for a long time and are considered to be relatively safe and stable.
+     <br>
+<br>
+    STOCKS represent ownership in a company and can provide potentially high returns through stock appreciation or dividends. Bonds are debt securities that pay interest to bondholders, and are considered to be less risky than stocks. MUTUAL FUNDS are a way to invest in a diversified portfolio of stocks, bonds, or other securities, which can help to spread out risk. 
+    <br>
+    <br>
+
+    It's important to understand the different risks and rewards associated with each type of investment, which includes-
+   <br><br>
+    Low Risk:  A Low-risk investment is like putting your money in a piggy bank. You know that your money is safe and you will not lose it, but it might not grow as much as you want it to. Just like a piggy bank doesn't grow much but it's a safe place to keep your money. Some examples of low-risk investments are savings accounts, CDs, bonds etc.
+    <br><br>
+    Medium Risk: A medium-risk investment is like buying a toy that you want to play with. You know it might be fun and you might like it, but there's a chance that you might not like it as much as you thought you would. Just like how you might not like the toy as much as you thought you would, a medium-risk investment might not do as well as you hoped it would. Some examples of medium-risk investments are stocks, mutual funds and real estate investment etc.
+    <br><br>
+    High Risk: A high-risk investment is like buying a toy that you're not sure you'll like. It might be really cool and you might have a lot of fun with it, but there's also a chance that you might not like it at all. Just like how you might not like the toy, a high-risk investment might not do well and you might lose some of the money you put in. Some examples of high-risk investments are stocks in small or new companies
+    <br><br>
+    In addition to traditional and alternative investments, there are also different investment strategies, such as value investing, growth investing, and momentum investing. Each strategy is based on different principles and seeks to achieve different objectives. (A professional financial advisor) We can help you understand the different types of investments and evaluate the risk tolerance accordingly.</p>
+
+</section>
+<br>
+
+<section id="stockmarket">
+    <h2>Stock Market Investments</h2>
+    <ul><li><a href="#basic">BASIC LEVEL INFORMATION</a></li><li><a href="#advanced">ADVANCED LEVEL INFORMATION</a></li></ul><br>
+    <SECTION id="basic">
+    <p>Stocks are like little pieces of ownership in a company. Just like how you own your toys, buying a stock means you own a tiny part of the company. And just like how you can sell your toys to someone else, you can also sell your stocks to someone else if you want to. Sometimes the company makes a lot of money and the value of your little piece goes up, and sometimes the company doesn't do so well and the value of your little piece goes down. </p>
+    
+    <p>Stocks are a way for people to invest their money and make more money. When a company wants to raise money, they can sell stocks to people. The people who buy the stocks become part owners of the company and they can make money if the company does well. If the company makes a lot of money, the value of the stocks go up and the people who own the stocks can sell them for more than they paid for them. If the company doesn't do well, the value of the stocks go down and the people who own the stocks might lose money.
+        There are different types of stocks, and different ways to invest in them-
+        Dividends: Some stocks pay dividends, which are like little payments to the stock owners, like a bonus for being part of the company. </p>
+        <p>GROWTH STOCKS: Some stocks are considered "growth" stocks, which means that the company is expected to grow and make more money in the future, but may not pay dividends. <br>
+
+            VALUE STOCKS: Some stocks are considered "value" stocks, which means they are considered undervalued and have the potential to gain value over time.<br>
+            
+            It is important to understand the risks when investing in stocks and diversity is advised.</p>
+    </SECTION>
+    <hr>
+    <section id="advanced">Advanced stocks refer to more complex and sophisticated forms of stock investing beyond just buying and holding individual stocks. Some examples of advanced stock strategies include -
+
+       <p>OPTIONS TRADING: This involves buying or selling options contracts, which gives the holder the right, but not the commitment or duty, to buy or sell a certain number of shares of a stock at a specific price within a specific time frame.<p
+        
+       <p> SHORT SELLING: This is when an investor borrows shares of a stock from someone else and sells them, hoping to buy them back later at a lower price and make a profit.</p>
+       <p> Margin trading: This is when an investor borrows money from a broker to buy more shares of a stock than they could afford with their own money. This can magnify potential gains, but also increases risk.</p>
+        
+       <p> HEDGING: This is when an investor uses multiple investment strategies to reduce the overall risk, for example they might buy stocks that they think will go up in value while also buying other options(contracts) which will pay off if the market goes down.</p>
+        
+       <p> These advanced strategies can be used by experienced investors and traders who have a good understanding of the risks and potential rewards involved. (It is important to note that these advanced strategies may not be suitable for all investors, and they often require a good deal of knowledge, experience, consultation and resources.)</p>
+    </section>
+    <a href="#top">GO BACK TO INVESTMENT OPPORTUNITIES</a>
+ </section>
+
+
+<section id="bond">
+<h2>Bonds</h2>
+<p>Imagine you have some money that you want to give to someone else for a little while so they can use it to do something big, like build a new road or a new school. In return, they promise to give your money back to you later, plus a little extra. That extra money is like a present for letting them borrow your money. That's what a bond is! In simple words, you give someone your money and they give it back to you later with a present.</p>
+<p>A bond is a type of investment where you lend money to a company or a government, and they promise to pay you back the amount you lent, plus interest. The interest is like a little bonus for lending them your money.
+    Bonds are considered a less risky investment compared to stocks, because bonds are debt and the issuer (the company or government) is obligated to pay you back. But the interest rate on bonds is usually lower than the potential return on stocks. When you buy a bond, you are essentially lending money to the issuer, who will then use that money to fund their operations or projects. In return, you will receive regular interest payments and get your principal back when the bond matures. 
+    You can buy bonds directly from the issuer or from a broker, and you can hold them until maturity or sell them on the secondary market. In technical terms, a bond is a loan you make to a company or government, in exchange for regular interest payments and the return of your principal (the original amount you lend) at maturity.</p>
+    <p>There are many types of bonds, but the most common ones are -<br><BR>
+
+        GOVERNMENT BONDS: These are bonds issued by national governments. They are considered to be among the safest investments because governments have the power to tax their citizens to repay the debt.<BR><BR>
+        
+        CORPORATE BONDS: These are bonds issued by companies. They are generally considered to be riskier than government bonds because companies can go out of business and may not be able to repay the debt.<BR><BR>
+        
+        MUNICIPLE BONDS: These are bonds issued by local governments, like cities or states. They are considered to be less risky than corporate bonds and they may also be tax-free.<BR><BR>
+        
+        HIGH YIELD OR "JUNK" BONDS: These are bonds issued by companies that have a lower credit rating, meaning they are considered to be riskier than other types of bonds. They offer higher interest rates to compensate for the extra risk.</p>
+        <a href="#top">GO BACK TO INVESTMENT OPPORTUNITIES</a>
+</section>
+
+<section id="mutualfunds">
+<h2>Mutual Funds</h2>
+<P>A mutual fund is a type of investment that pools money from many people and uses that money to buy stocks, bonds, or other investments. Think of it like a big piggy bank where lots of people put in their money, and then a grown-up uses that money to buy things like stocks and bonds that can make more money. Everyone who puts money in the piggy bank gets a share of the resultant.</P>
+<p>In technical terms, a mutual fund is a type of investment vehicle that pools money from multiple investors in order to purchase securities. is like a big basket of different investments. Instead of buying just one stock or bond, you're buying a little bit of lots of different stocks and bonds all at once. This is good because it helps spread the risk around. When you buy a mutual fund, you get to share in the gains or losses of all the stocks and bonds. The grown-up in charge of the mutual fund is called a money manager also known as the fund manager. The fund manager is responsible for making investment decisions and managing the funds in accordance with the fund's investment objective and strategy.<br><br>
+
+    One can buy or sell your share of the mutual fund at any time. The value of your share will go up or down depending on how the stocks and bonds are doing. Mutual funds are a good option for people who want to invest their money but don't want to pick individual stocks and bonds. Mutual funds can be classified into different categories based on their investment objective and strategy. <br><br>
+    Some common categories include - <br><br>
+    INDEX FUNDS: These types of mutual funds track a specific market index, such as the S&P 500. This can be a low-cost and easy way to invest in a broad range of stocks.
+    <br><br>
+    BALANCED FUNDS: These types of mutual funds invest in a mix of stocks and bonds. This helps spread the risk around and can provide more consistent returns.<br><br>
+    
+    STOCK FUNDS: These types of mutual funds invest in stocks, which are pieces of ownership in a company…(stock definition)<br><br>
+    
+    BOND FUNDS: These types of mutual funds invest in bonds, which are like loans to a company or government…(bond definition)<br><br>
+    
+    INTERNATIONAL FUNDS: These types of mutual funds invest in companies and bonds outside of the country. This can be a good way to diversify your investments.<br><br>
+    
+    TARGET-DATE FUNDS: These types of mutual funds are designed for people who plan to retire in a specific year. They invest in a mix of stocks, bonds, and other investments that are appropriate for the investor's age and retirement goals.<br><br>
+    
+    The best mutual fund to invest in will depend on your individual investment goals, risk tolerance, and time horizon.That being said, generally speaking, index funds and low-cost passively managed funds are often considered a good choice for long-term investment. These funds provide broad market exposure and tend to have low management fees.<br><br>
+    Additionally, balanced funds which invest in both stocks and bonds, can also be a good option for those looking for more diversification. 
+    Target-date funds are a good option for those who have a clear retirement goal in mind.
+    It's also worth noting that past performance of a mutual fund is not a guarantee of future results, thus, it's important to regularly review and adjust it as needed, to ensure it aligns with your current investment goals and risk tolerance.</p>
+    <a href="#top">GO BACK TO INVESTMENT OPPORTUNITIES</a>
+</section>
+
+
+<h2 id="contact">Contact Us</h2>
+<section id="cont"><p>If you are interested in learning more about our investment opportunities or if you have any queries, please send us an email.</p>
+<a href="mailto:capitalguide7@gmail.com? subject=subject text">capitalguide7@gmail.com</a></section>
+
+
+</main>
+
+<footer>
+    <p>Copyright © CAPITAL GUIDE</p>
+</footer>
+
+</body>
+
+</html>
